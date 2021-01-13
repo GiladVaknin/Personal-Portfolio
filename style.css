@@ -1,0 +1,32 @@
+*{
+    font-family:fantasy;
+    text-align: center;
+    color:black;
+}
+body{
+    background-image:url("AdobeStock_100000042-e1563305717660-686x371.jpeg");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.container{
+    text-align: center;
+    font-size:25px;
+    width:100%;
+    height: 100vh;
+    margin:auto;
+    padding-top: 200px;
+    box-sizing: content-box;
+    border:3px solid  blanchedalmond;
+  }
+#navbar{
+    background-color:LightBlue;
+    position:fixed;
+    top:0;
+    width:100%;
+  }
+  
+
+
+  
