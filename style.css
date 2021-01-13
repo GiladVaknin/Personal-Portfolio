@@ -4,9 +4,7 @@
    
 }
 body{
-    /* background-image:url("AdobeStock_100000042-e1563305717660-686x371.jpeg");
-    background-repeat: no-repeat;
-    background-size: cover; */
+ 
     color:black;
 
 }
@@ -16,14 +14,10 @@ body{
     font-size:25px;
     width:100%;
     margin:auto;
-    /* padding-top: 200px; */
-    /* border:3px solid  blanchedalmond; */
     height:100vh;
     margin-top:0;
     margin-bottom: 0; 
-    /* background-image:url("welcome.jpg");
-  background-repeat: no-repeat;
-  background-size: cover; */
+
     
 
 
@@ -53,7 +47,6 @@ body{
   height:100vh;
   margin-top:0;
   margin-bottom: 0; 
-  /* padding:200px ; */
    background-image:url("welcome.jpg");
   background-repeat: no-repeat;
   background-size: cover; 
@@ -69,9 +62,7 @@ body{
     font-family:Times, Times New Roman, serif ;
    
 }
-.conectionsbar{
-    background-color:AliceBlue;
-}
+
 
 
 
