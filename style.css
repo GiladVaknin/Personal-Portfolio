@@ -21,18 +21,25 @@ body {
   top: 0;
   width: 100%;
 }
-ul {
+#navbar ul {
   list-style: none;
   display: inline-flex;
   text-transform: uppercase;
 }
-li {
+#navbar li {
   font-size: large;
   padding-right: 30px;
 }
+#navbar li :hover {
+  font-size: larger;
+}
+
 .logo {
   height: 50px;
   width: 50px;
+}
+.logo:hover {
+  border: 0.5px solid black;
 }
 #welcome-section {
   height: 100vh;
@@ -50,4 +57,8 @@ li {
 #name h1 {
   font-size: 100px;
   font-family: Times, Times New Roman, serif;
+}
+#logos {
+  list-style: none;
+  display: inline-flex;
 }
